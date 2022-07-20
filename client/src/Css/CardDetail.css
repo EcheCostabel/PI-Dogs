@@ -1,0 +1,23 @@
+.labelDetail{
+    color: #fff;
+    font-size: 18px;
+    
+}
+
+.containerDetail{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.imgDetail{
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+.containerMayor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
